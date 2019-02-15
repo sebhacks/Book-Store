@@ -1,0 +1,32 @@
+1111, "Top Secret Twenty One - Janet Evanovich", 8.99
+22222, "W Is For Wasted - Sue Grafton", 9.95
+33333, "Gray Mountain - John Grisham", 14.95
+39872, "The Whistler - John Grisham", 12.50
+44444, "Revival - Stephen King", 12.95
+55555, "Everyday Italian - Giada de Laurentiis", 18.99
+66666, "Refusal - Felix Francis", 7.99
+77777, "Dust - Patricia Cornwell", 12.99
+89124, "Into the Water - Paula Hawkins", 14.99
+19342, "The Surgeon - Tess Gerritsen", 10.99
+69843, "CyberStorm - Matthew Mather", 10.50
+69999, "Cross the Line - James Patterson", 9.50
+88888, "Terminal City - Linda Fairstein", 10.95
+234, "The Bourne Identity - Robert Ludlum", 12.95
+99999, "Rogue Lawyer - John Grisham", 15.95
+11112, "The Guilty - David Baldacci", 14.95
+11234, "Tricky Twenty-Two - Janet Evanovich", 12.95
+23456, "14th Deadly Sin - James Patterson", 14.95
+123456789, "The Bourne Ultimatum - Robert Ludlum", 15.25
+43786, "The Girl on the Train - Paula Hawkins", 9.99
+23411, "Chaos - Patricia Cornwell", 10.75
+12123, "X - Sue Grafton", 9.99
+44556, "The Fix - David Baldacci", 12.99
+33214, "Against All Odds - Danielle Steele", 18.99
+98342, "The Circle - Dave Eggers", 14.99
+67534, "The Black Book - James Patterson", 15.99
+89891, "Turbo Twenty-three - Janet Evanovich", 8.99
+45376, "The Apprentice - Tess Gerritsen", 9.99
+12277, "Y Is For Yesterday - Sue Grafton", 10.99
+89238, "The Reckoning - John Grisham", 14.99
+49623, "Long Road To Mercy - David Baldacci", 15.99
+19652, "Bird Box - Josh Malerman", 12.99

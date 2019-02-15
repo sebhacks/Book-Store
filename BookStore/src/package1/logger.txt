@@ -1,0 +1,2 @@
+010220190652, 33333, "Gray Mountain - John Grisham", 14.95 2 0% $29.9, 02/01/2019, 06:52:13 PM EST
+010220190652, 55555, "Everyday Italian - Giada de Laurentiis", 18.99 5 10% $85.45, 02/01/2019, 06:52:59 PM EST
